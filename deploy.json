@@ -4,6 +4,5 @@
   "allowed_ip_ranges": [
     "Any"
   ],
-  "port": 4000,
-  "health_check": "/healthz"
+  "port": 4000
 }
