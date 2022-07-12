@@ -4,5 +4,5 @@
   "allowed_ip_ranges": [
     "Any"
   ],
-  "port": 4000,
+  "port": 4000
 }
